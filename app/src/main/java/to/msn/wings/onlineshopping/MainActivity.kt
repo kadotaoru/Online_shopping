@@ -12,5 +12,6 @@ class MainActivity : AppCompatActivity() {
         val lvMenu = findViewById<ListView>(R.id.lvMenu)
         val menuList:MutableList<MutableMap<String, String>> = mutableListOf()
 
+        //ｙaturi
     }
 }
